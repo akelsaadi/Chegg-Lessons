@@ -1,0 +1,18 @@
+item number         item name                 quantity	       price        price*quantity     flag
+10044		Plastic Ice Cubes   		450		0.6		270		X
+12283		HighRider Shoes     		372		35.95		13373.4		X
+18492		Sented Toe Jamm     		14		0.5		7		X
+18499		UnSented Toe Jam    		23		0.74		17.02		 
+23923		Canned Solar Winds  		12		550		6600		 
+23934		Stars Dancing Shoes 		80		22.5		1800		 
+38324		El Slick Slider     		15		225		3375		X
+44433		LensLess Saftey Glas		22		2.1		46.2		X
+51121		Colored Pie Charts  		60		1.5		90		 
+62042		Meals for Up Chuck  		20		16.5		330		X
+71083		Super House Cleaner 		14		69.85		977.9		X
+73277		Used Boat Anchors   		6		17.5		105		X
+73922		Frozen Ice Cubes    		100		0.15		15		X
+74329		HumpBack Whale Songs		42		23.7		995.4		X
+83209		Widgets No Two      		970		17.5		16975		 
+87293		Backwards Left Turns		5		34.95		174.75		X
+98723		Wong Batts          		243		6.45		1567.35		 

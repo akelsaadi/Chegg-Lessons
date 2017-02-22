@@ -1,0 +1,3 @@
+﻿  Tester.cpp
+c:\users\ali\documents\visual studio 2015\projects\project8\project8\queue.h(61): error C2061: syntax error: identifier 'ostream'
+c:\users\ali\documents\visual studio 2015\projects\project8\project8\tester.cpp(47): error C3867: 'Queue::display': non-standard syntax; use '&' to create a pointer to member

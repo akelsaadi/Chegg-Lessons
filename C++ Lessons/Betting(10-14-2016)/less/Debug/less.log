@@ -1,0 +1,4 @@
+﻿  less.cpp
+c:\users\ali\documents\visual studio 2015\projects\less\less\less.cpp(148): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  less.vcxproj -> c:\users\ali\documents\visual studio 2015\Projects\less\Debug\less.exe
+  less.vcxproj -> c:\users\ali\documents\visual studio 2015\Projects\less\Debug\less.pdb (Partial PDB)

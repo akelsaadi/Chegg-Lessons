@@ -1,0 +1,6 @@
+﻿  Phone.cpp
+c:\users\ali\documents\visual studio 2015\projects\othman\othman\phone.cpp(56): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\othman\othman\phone.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\othman\othman\phone.cpp(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Othman.vcxproj -> C:\Users\Ali\Documents\Visual Studio 2015\Projects\Othman\Debug\Othman.exe
+  Othman.vcxproj -> C:\Users\Ali\Documents\Visual Studio 2015\Projects\Othman\Debug\Othman.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Vector.cpp
+c:\users\ali\documents\visual studio 2015\projects\ali's lesson\ali's lesson\vector.cpp(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Ali's Lesson.vcxproj -> c:\users\ali\documents\visual studio 2015\Projects\Ali's Lesson\Debug\Ali's Lesson.exe
+  Ali's Lesson.vcxproj -> c:\users\ali\documents\visual studio 2015\Projects\Ali's Lesson\Debug\Ali's Lesson.pdb (Partial PDB)

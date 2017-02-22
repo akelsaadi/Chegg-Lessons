@@ -1,0 +1,5 @@
+﻿  InventoryProgram.cpp
+c:\users\ali\documents\visual studio 2015\projects\corey's lesson\corey's lesson\inventoryprogram.cpp(62): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\corey's lesson\corey's lesson\inventoryprogram.cpp(38): warning C4101: 'priceqt': unreferenced local variable
+  Corey's Lesson.vcxproj -> C:\Users\Ali\Documents\Visual Studio 2015\Projects\Corey's Lesson\Debug\Corey's Lesson.exe
+  Corey's Lesson.vcxproj -> C:\Users\Ali\Documents\Visual Studio 2015\Projects\Corey's Lesson\Debug\Corey's Lesson.pdb (Partial PDB)

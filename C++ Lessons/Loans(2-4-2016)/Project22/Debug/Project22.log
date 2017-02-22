@@ -1,0 +1,4 @@
+﻿  test.cpp
+c:\users\ali\documents\visual studio 2015\projects\project22\project22\test.cpp(28): warning C4129: '%': unrecognized character escape sequence
+  Project22.vcxproj -> c:\users\ali\documents\visual studio 2015\Projects\Project22\Debug\Project22.exe
+  Project22.vcxproj -> c:\users\ali\documents\visual studio 2015\Projects\Project22\Debug\Project22.pdb (Partial PDB)

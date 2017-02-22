@@ -1,0 +1,48 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int  main()
+{
+  int m,x=1, n=2, c = 0, d,k, matrix[10][10];
+
+  printf("Enter the number of columns of matrix ");
+  scanf("%d",&m);
+  printf("Enter the number of rows of matrix ");
+  scanf("%d", &n);
+  if(m<=0){
+    printf("You entered a invalid value.");
+    exit(0);
+  }
+  else{
+    printf("Enter the elements of matrix \n");
+
+    for( c = 0 ; c < n ; c++ )
+      {
+        for( d = 0 ; d < m ; d++ )
+          {
+            matrix[c][d]= x;
+            if (matrix[c][d] == 99) 
+           break;
+           x++;
+
+          }
+      }
+  }
+
+  printf("\nHere is your matrix:\n");
+  int i;
+
+  for(i=0;i<c;i++)
+    {
+      for(d=0;d<m;d++)
+        {
+            //if(matrix[i][d]%n==0)
+               //printf("*");
+            //else
+            printf("%3d ",matrix[i][d]);
+        }
+      printf("\n");
+    }
+
+}
+
